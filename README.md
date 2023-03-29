@@ -1,4 +1,4 @@
-# RGB
+# 🎨 RGB
 An original concept of a Trading Card Game (TCG) prototype where you summon an army of creatures based on both the 3 primary colors: red, green and blue, and their corresponding shapes: triangle, square and circle.
 
 Charming 32x24 custom made card sprites.
@@ -7,7 +7,7 @@ Charming 32x24 custom made card sprites.
 
 <details><summary>
 
-# Rules:
+# 📜 Rules:
 
 </summary>
 
@@ -32,7 +32,7 @@ When a player has no creatures on their side of the field, you can attack their 
 <hr>
 
 ## 🔺 Red 
-- Shape: Trianle.  
+- Shape: Triangle.  
 ##### Playstyle:
 - Offensive.  
 - Field swarming with cheaper smaller creatures.  
@@ -53,7 +53,7 @@ When a player has no creatures on their side of the field, you can attack their 
 
 <details><summary>
 
-# Demo video
+# 🎬 Demo video
 
 </summary>
 
@@ -61,9 +61,9 @@ https://user-images.githubusercontent.com/93501477/228642874-56093868-47f4-4bf6-
 
 </details>
 
-<hr>
+<br><hr>
 
-# Technologies:
+# 🦾 Technologies:
 
 - Unity
 - C#
