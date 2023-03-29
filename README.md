@@ -64,3 +64,8 @@ https://user-images.githubusercontent.com/93501477/228642874-56093868-47f4-4bf6-
 </details>
 
 <hr>
+
+# Technologies:
+
+- Unity
+- C#
