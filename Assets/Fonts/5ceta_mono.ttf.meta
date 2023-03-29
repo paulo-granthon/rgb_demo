@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ea18d965779a4ee428842d9da8c2c4fc
+timeCreated: 1516607901
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 5Ceta Mono
+  fontNames:
+  - 5Ceta Mono
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
