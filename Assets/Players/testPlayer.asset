@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: testPlayer
+  m_EditorClassIdentifier: Assembly-CSharp::DuelManager/Player
+  name: Hexed
+  intelligence: {fileID: 0}
+  hp: 20
+  curHP: 20
+  manaPool:
+    _r: 0
+    _g: 0
+    _b: 0
+    _w: 0
+  deck:
+    deck:
+    - {fileID: 11400000, guid: e734c143d706ccb4689a7525cc0bab06, type: 2}
+    - {fileID: 11400000, guid: 86920b3c61b8b2643a066be89ce7d775, type: 2}
+    - {fileID: 11400000, guid: e734c143d706ccb4689a7525cc0bab06, type: 2}
+    - {fileID: 11400000, guid: e734c143d706ccb4689a7525cc0bab06, type: 2}
+    - {fileID: 11400000, guid: e734c143d706ccb4689a7525cc0bab06, type: 2}
+    - {fileID: 11400000, guid: 86920b3c61b8b2643a066be89ce7d775, type: 2}
+    - {fileID: 11400000, guid: e734c143d706ccb4689a7525cc0bab06, type: 2}
+    - {fileID: 11400000, guid: e734c143d706ccb4689a7525cc0bab06, type: 2}
+    - {fileID: 11400000, guid: aee639f9339cf3a468fac7a150a5867e, type: 2}
+    - {fileID: 11400000, guid: e734c143d706ccb4689a7525cc0bab06, type: 2}
+    - {fileID: 11400000, guid: e734c143d706ccb4689a7525cc0bab06, type: 2}
+    - {fileID: 11400000, guid: aee639f9339cf3a468fac7a150a5867e, type: 2}
+    - {fileID: 11400000, guid: e734c143d706ccb4689a7525cc0bab06, type: 2}
+    - {fileID: 11400000, guid: e734c143d706ccb4689a7525cc0bab06, type: 2}
+    - {fileID: 11400000, guid: 86920b3c61b8b2643a066be89ce7d775, type: 2}
+    - {fileID: 11400000, guid: 1573ac73828325e48841d8a0389388ca, type: 2}
+    - {fileID: 11400000, guid: c3b2e35231e8b474bb0004e4489a0268, type: 2}
+    - {fileID: 11400000, guid: 86920b3c61b8b2643a066be89ce7d775, type: 2}
+    - {fileID: 11400000, guid: 1573ac73828325e48841d8a0389388ca, type: 2}
+    - {fileID: 11400000, guid: c3b2e35231e8b474bb0004e4489a0268, type: 2}
+    duelDeck:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    deckSlot: {fileID: 0}
+  field:
+    minionsParent: {fileID: 0}
+    minions:
+    - {fileID: 0}
+    - {fileID: 0}
+    artifactsParent: {fileID: 0}
+    artifacts: []
+  hand:
+    hand: {fileID: 0}
+    cards: []
+  graveyard:
+    graveyard: {fileID: 0}
+    cards:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+  drawPoints: 0
+  cardTextCollors:
+    upCollor: {r: 0, g: 0.3137255, b: 0.3137255, a: 1}
+    defCollor: {r: 0, g: 0, b: 0, a: 1}
+    downCollor: {r: 0.3137255, g: 0, b: 0.3137255, a: 1}

@@ -1,0 +1,6 @@
+<Card>
+color = "RED";
+name = rager;
+cost = 2;
+power = (1, 4);
+desc = "when this card takes damage it's power increases by 1"; 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5d2cfe6e3e62c0d4ea298a0aed1e2f66
+timeCreated: 1516587864
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kenyan Coffee
+  fontNames:
+  - Kenyan Coffee
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
