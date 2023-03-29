@@ -1,6 +1,4 @@
 # RGB
-A simple concept prototype made in Unity + C#. 
-
 An original concept of a Trading Card Game (TCG) prototype where you summon an army of creatures based on both the 3 primary colors: red, green and blue, and their corresponding shapes: triangle, square and circle.
 
 Charming 32x24 custom made card sprites.
