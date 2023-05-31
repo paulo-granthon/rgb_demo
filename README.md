@@ -11,21 +11,16 @@ Charming 32x24 custom made card sprites.
 
 </summary>
 
-``` 
-Each player has it's custom deck and battles until their life points are reduced to 0 or they have no cards left on the deck
-```  
-```
-Each non-energy card has it's own use cost. You discard Energy cards to get energy of that color to play cards.
-Energy stays stored in your "pool" between turns.
-```
-```
-When someone's turn starts, the player draws cards until they have 7 in the hand. 
-Every subsequent turn, the player of that turn can draw one card.
-```
-```
-Creatures on your side of field can attack creatures on the opponent's side of the field.
+- Each player has it's custom deck and battles until their life points are reduced to 0 or they have no cards left on the deck.  
+
+- Each non-energy card has it's own use cost. You discard Energy cards to get energy of that color to play cards.
+Energy stays stored in your "pool" between turns.  
+
+- When someone's turn starts, the player draws cards until they have 7 in the hand.  
+Every subsequent turn, the player of that turn can draw one card.  
+
+- Creatures on your side of field can attack creatures on the opponent's side of the field.
 When a player has no creatures on their side of the field, you can attack their life points directly.
-```
 
 </details>
 
