@@ -27,21 +27,18 @@ When a player has no creatures on their side of the field, you can attack their 
 <hr>
 
 ## 🔺 Red 
-- Shape: Triangle.  
+- Shape: Triangle, Pyramid.  
 ##### Playstyle:
-- Offensive.  
 - Field swarming with cheaper smaller creatures.  
 
 ## 🟩 Green 
-- Shape: Square.  
+- Shape: Square, Cube.  
 ##### Playstyle:
-- Defensive.  
 - Field persistance with higher health creatures.
 
 ## 🔵 Blue 
-- Shape: Trianle.  
+- Shape: Circle, Sphere.  
 ##### Playstyle:
-- Offensive.  
 - Field dominance with higher attack creatures.  
 
 <hr>
